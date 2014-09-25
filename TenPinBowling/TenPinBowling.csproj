@@ -193,10 +193,12 @@
     <Content Include="Scripts\backbone.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+    <None Include="Properties\PublishProfiles\stevensagartenpin.duckdns.org.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\Bowling\Collections\BowlingCardCollection.js" />
     <Content Include="Scripts\Bowling\Collections\BowlingUserCollection.js" />
     <Content Include="Scripts\Bowling\Config\Init.js" />
+    <Content Include="Scripts\Bowling\Config\Init.min.js" />
     <Content Include="Scripts\Bowling\Models\BowlingScoreModel.js" />
     <Content Include="Scripts\Bowling\Routers\Router.js" />
     <Content Include="Scripts\Bowling\Templates\FinalFrame.html" />
@@ -323,6 +325,10 @@
       </FlavorProperties>
     </VisualStudio>
   </ProjectExtensions>
+  <PropertyGroup>
+    <PreBuildEvent>cd "C:\Projects\TenPinBowling\TenPinBowling\"
+"C:\Program Files\nodejs\node.exe" "C:\Projects\TenPinBowling\TenPinBowling\OptimizeScriptBowling.js"</PreBuildEvent>
+  </PropertyGroup>
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
        Other similar extension points exist, see Microsoft.Common.targets.
   <Target Name="BeforeBuild">

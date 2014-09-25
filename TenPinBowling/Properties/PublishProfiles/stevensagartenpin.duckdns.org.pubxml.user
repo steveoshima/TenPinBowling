@@ -1,0 +1,391 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\inetpub\wwwroot\stevensagartenpin.duckdns.org</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>09/23/2014 20:32:50</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>09/23/2014 20:32:51</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>09/23/2014 20:32:51</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Core.dll">
+      <publishTime>09/23/2014 20:32:52</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.EntityFramework.dll">
+      <publishTime>09/23/2014 20:32:52</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Owin.dll">
+      <publishTime>09/23/2014 20:32:52</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>09/23/2014 20:32:52</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
+      <publishTime>09/23/2014 20:32:52</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Cookies.dll">
+      <publishTime>09/23/2014 20:32:52</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.dll">
+      <publishTime>09/23/2014 20:32:52</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Facebook.dll">
+      <publishTime>09/23/2014 20:32:52</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Google.dll">
+      <publishTime>09/23/2014 20:32:52</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.MicrosoftAccount.dll">
+      <publishTime>09/23/2014 20:32:53</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.OAuth.dll">
+      <publishTime>09/23/2014 20:32:52</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Twitter.dll">
+      <publishTime>09/23/2014 20:32:52</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>09/23/2014 20:32:49</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>09/23/2014 20:32:50</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>09/23/2014 20:32:52</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>09/23/2014 20:32:49</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>09/23/2014 20:32:50</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>09/23/2014 20:32:49</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>09/23/2014 20:32:49</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>09/23/2014 20:32:49</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>09/23/2014 20:32:49</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>09/23/2014 20:32:49</publishTime>
+    </File>
+    <File Include="bin/TenPinBowling.dll">
+      <publishTime>09/25/2014 22:49:13</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>09/23/2014 20:32:50</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>09/23/2014 20:32:46</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>09/23/2014 20:32:46</publishTime>
+    </File>
+    <File Include="Content/Bowling.css">
+      <publishTime>09/25/2014 20:13:06</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>09/23/2014 20:32:51</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>09/23/2014 20:32:42</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>09/23/2014 20:32:46</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>09/23/2014 20:32:46</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>09/23/2014 20:32:46</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>09/23/2014 20:32:46</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>09/23/2014 20:32:42</publishTime>
+    </File>
+    <File Include="OptimizeScriptBowling.js">
+      <publishTime>09/25/2014 22:45:23</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>09/23/2014 20:32:53</publishTime>
+    </File>
+    <File Include="Scripts/almond.js">
+      <publishTime>04/19/2013 23:02:54</publishTime>
+    </File>
+    <File Include="Scripts/backbone.js">
+      <publishTime>04/19/2013 12:09:52</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>09/23/2014 20:32:46</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>09/23/2014 20:32:46</publishTime>
+    </File>
+    <File Include="Scripts/Bowling/Collections/BowlingCardCollection.js">
+      <publishTime>09/25/2014 19:06:42</publishTime>
+    </File>
+    <File Include="Scripts/Bowling/Collections/BowlingUserCollection.js">
+      <publishTime>09/25/2014 02:34:42</publishTime>
+    </File>
+    <File Include="Scripts/Bowling/Config/Init.js">
+      <publishTime>09/23/2014 22:01:40</publishTime>
+    </File>
+    <File Include="Scripts/Bowling/Config/Init.min.js">
+      <publishTime>09/25/2014 22:49:13</publishTime>
+    </File>
+    <File Include="Scripts/Bowling/Models/BowlingScoreModel.js">
+      <publishTime>09/25/2014 05:18:40</publishTime>
+    </File>
+    <File Include="Scripts/Bowling/Routers/Router.js">
+      <publishTime>09/24/2014 02:46:21</publishTime>
+    </File>
+    <File Include="Scripts/Bowling/Templates/FinalFrame.html">
+      <publishTime>09/25/2014 17:44:38</publishTime>
+    </File>
+    <File Include="Scripts/Bowling/Templates/Frame.html">
+      <publishTime>09/25/2014 17:31:01</publishTime>
+    </File>
+    <File Include="Scripts/Bowling/Templates/InputScorecards.html">
+      <publishTime>09/25/2014 19:26:56</publishTime>
+    </File>
+    <File Include="Scripts/Bowling/Templates/InputUsers.html">
+      <publishTime>09/25/2014 18:47:37</publishTime>
+    </File>
+    <File Include="Scripts/Bowling/Views/InputScorecardView.js">
+      <publishTime>09/25/2014 19:51:30</publishTime>
+    </File>
+    <File Include="Scripts/Bowling/Views/InputUsersView.js">
+      <publishTime>09/25/2014 22:35:47</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.js">
+      <publishTime>09/23/2014 20:32:47</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.js">
+      <publishTime>09/23/2014 20:32:47</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.map">
+      <publishTime>09/23/2014 20:32:47</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui/accordion.js">
+      <publishTime>08/13/2014 04:19:40</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui/autocomplete.js">
+      <publishTime>08/13/2014 04:19:40</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui/button.js">
+      <publishTime>08/13/2014 04:19:40</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui/core.js">
+      <publishTime>08/13/2014 04:19:40</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui/datepicker.js">
+      <publishTime>08/13/2014 04:19:40</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui/dialog.js">
+      <publishTime>08/13/2014 04:19:40</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui/draggable.js">
+      <publishTime>08/13/2014 04:19:40</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui/droppable.js">
+      <publishTime>08/13/2014 04:19:40</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui/effect-blind.js">
+      <publishTime>08/13/2014 04:19:40</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui/effect-bounce.js">
+      <publishTime>08/13/2014 04:19:40</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui/effect-clip.js">
+      <publishTime>08/13/2014 04:19:40</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui/effect-drop.js">
+      <publishTime>08/13/2014 04:19:40</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui/effect-explode.js">
+      <publishTime>08/13/2014 04:19:40</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui/effect-fade.js">
+      <publishTime>08/13/2014 04:19:40</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui/effect-fold.js">
+      <publishTime>08/13/2014 04:19:40</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui/effect-highlight.js">
+      <publishTime>08/13/2014 04:19:40</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui/effect-puff.js">
+      <publishTime>08/13/2014 04:19:40</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui/effect-pulsate.js">
+      <publishTime>08/13/2014 04:19:40</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui/effect-scale.js">
+      <publishTime>08/13/2014 04:19:40</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui/effect-shake.js">
+      <publishTime>08/13/2014 04:19:40</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui/effect-size.js">
+      <publishTime>08/13/2014 04:19:40</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui/effect-slide.js">
+      <publishTime>08/13/2014 04:19:40</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui/effect-transfer.js">
+      <publishTime>08/13/2014 04:19:40</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui/effect.js">
+      <publishTime>08/13/2014 04:19:40</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui/menu.js">
+      <publishTime>08/13/2014 04:19:40</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui/mouse.js">
+      <publishTime>08/13/2014 04:19:40</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui/position.js">
+      <publishTime>08/13/2014 04:19:40</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui/progressbar.js">
+      <publishTime>08/13/2014 04:19:40</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui/resizable.js">
+      <publishTime>08/13/2014 04:19:40</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui/selectable.js">
+      <publishTime>08/13/2014 04:19:40</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui/selectmenu.js">
+      <publishTime>08/13/2014 04:19:40</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui/slider.js">
+      <publishTime>08/13/2014 04:19:40</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui/sortable.js">
+      <publishTime>08/13/2014 04:19:40</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui/spinner.js">
+      <publishTime>08/13/2014 04:19:40</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui/tabs.js">
+      <publishTime>08/13/2014 04:19:40</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui/tooltip.js">
+      <publishTime>08/13/2014 04:19:40</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui/widget.js">
+      <publishTime>08/13/2014 04:19:40</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.js">
+      <publishTime>09/23/2014 20:32:53</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.min.js">
+      <publishTime>09/23/2014 20:32:53</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.js">
+      <publishTime>09/23/2014 20:32:53</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.min.js">
+      <publishTime>09/23/2014 20:32:53</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.6.2.js">
+      <publishTime>09/23/2014 20:32:50</publishTime>
+    </File>
+    <File Include="Scripts/r.js">
+      <publishTime>04/18/2013 20:36:46</publishTime>
+    </File>
+    <File Include="Scripts/require.js">
+      <publishTime>10/04/2013 13:04:36</publishTime>
+    </File>
+    <File Include="Scripts/respond.js">
+      <publishTime>09/23/2014 20:32:50</publishTime>
+    </File>
+    <File Include="Scripts/respond.min.js">
+      <publishTime>09/23/2014 20:32:50</publishTime>
+    </File>
+    <File Include="Scripts/text.js">
+      <publishTime>10/04/2013 13:05:02</publishTime>
+    </File>
+    <File Include="Scripts/underscore-min.js">
+      <publishTime>10/04/2013 13:01:56</publishTime>
+    </File>
+    <File Include="Scripts/_references.js">
+      <publishTime>09/25/2014 22:45:43</publishTime>
+    </File>
+    <File Include="Views/Account/ExternalLoginConfirmation.cshtml">
+      <publishTime>09/23/2014 20:32:51</publishTime>
+    </File>
+    <File Include="Views/Account/ExternalLoginFailure.cshtml">
+      <publishTime>09/23/2014 20:32:51</publishTime>
+    </File>
+    <File Include="Views/Account/Login.cshtml">
+      <publishTime>09/23/2014 20:32:51</publishTime>
+    </File>
+    <File Include="Views/Account/Manage.cshtml">
+      <publishTime>09/23/2014 20:32:51</publishTime>
+    </File>
+    <File Include="Views/Account/Register.cshtml">
+      <publishTime>09/23/2014 20:32:51</publishTime>
+    </File>
+    <File Include="Views/Account/_ChangePasswordPartial.cshtml">
+      <publishTime>09/23/2014 20:32:51</publishTime>
+    </File>
+    <File Include="Views/Account/_ExternalLoginsListPartial.cshtml">
+      <publishTime>09/23/2014 20:32:51</publishTime>
+    </File>
+    <File Include="Views/Account/_RemoveAccountPartial.cshtml">
+      <publishTime>09/23/2014 20:32:51</publishTime>
+    </File>
+    <File Include="Views/Account/_SetPasswordPartial.cshtml">
+      <publishTime>09/23/2014 20:32:51</publishTime>
+    </File>
+    <File Include="Views/Bowling/Index.cshtml">
+      <publishTime>09/25/2014 22:46:50</publishTime>
+    </File>
+    <File Include="Views/Home/About.cshtml">
+      <publishTime>09/25/2014 19:58:51</publishTime>
+    </File>
+    <File Include="Views/Home/Contact.cshtml">
+      <publishTime>09/25/2014 20:00:50</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>09/23/2014 20:32:42</publishTime>
+    </File>
+    <File Include="Views/Shared/Error.cshtml">
+      <publishTime>09/23/2014 20:32:51</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Views/Shared/_LoginPartial.cshtml">
+      <publishTime>09/23/2014 20:32:51</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>09/23/2014 20:32:42</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>09/23/2014 20:32:42</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/25/2014 21:25:25</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
