@@ -1,0 +1,21 @@
+﻿@{
+    ViewBag.Title = "Dash";
+}
+
+<link href="@Url.Content("~/Content/Bowling.css")" rel="stylesheet" type="text/css" />
+
+
+<script type="text/javascript">
+    var require = {
+        baseUrl: "/",
+        waitSeconds: 15,
+        urlArgs: "bust=0.1",
+        deps: ['/Scripts/Bowling/config/Init.js']
+    };
+</script>
+<script src="/Scripts/require.js?bust=1.0"></script>
+
+<section id="defaultContainer">
+    
+</section>
+
